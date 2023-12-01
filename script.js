@@ -16,5 +16,5 @@ body.addEventListener("mousemove", (e) => {
 
   setTimeout(() => {
     span.remove();
-  }, 1000);
+  }, 2000);
 });
