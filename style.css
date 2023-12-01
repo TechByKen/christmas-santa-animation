@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-image: url(images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+span {
+  background: url("https://cdn1.iconfinder.com/data/icons/santa-emojis/60/019_-_santa_christmas_emoji_happy_smile-256.png");
+  width: 100px;
+  height: 100px;
+}
